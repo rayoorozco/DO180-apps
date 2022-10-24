@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hello World!",
   "main": "app.js",
-  "script":{ "start" :"nodej app.js"}
+  "script": { "start" : "nodej app.js"},
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
